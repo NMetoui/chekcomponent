@@ -1,0 +1,15 @@
+.fn1 {
+  padding: 50px;
+  margin: 50px;
+  width: 500px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.fn1-para {
+  text-align: justify;
+}
+.fn1-name {
+  font-family: "Supermercado One", cursive;
+}
